@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\DVLD\DVLD-BLL\bin\Debug\DVLD-BLL.dll
+C:\Users\user\Desktop\DVLD\DVLD-BLL\bin\Debug\DVLD-BLL.pdb
+C:\Users\user\Desktop\DVLD\DVLD-BLL\bin\Debug\DVLD-DAL.dll
+C:\Users\user\Desktop\DVLD\DVLD-BLL\bin\Debug\DVLD-DAL.pdb
+C:\Users\user\Desktop\DVLD\DVLD-BLL\obj\Debug\DVLD-BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DVLD\DVLD-BLL\obj\Debug\DVLD-BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DVLD\DVLD-BLL\obj\Debug\DVLD-BLL.csproj.Up2Date
+C:\Users\user\Desktop\DVLD\DVLD-BLL\obj\Debug\DVLD-BLL.dll
+C:\Users\user\Desktop\DVLD\DVLD-BLL\obj\Debug\DVLD-BLL.pdb

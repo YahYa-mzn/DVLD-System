@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DVLD\DVLD-DAL\bin\Debug\DVLD-DAL.dll
+C:\Users\user\Desktop\DVLD\DVLD-DAL\bin\Debug\DVLD-DAL.pdb
+C:\Users\user\Desktop\DVLD\DVLD-DAL\obj\Debug\DVLD-DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DVLD\DVLD-DAL\obj\Debug\DVLD-DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DVLD\DVLD-DAL\obj\Debug\DVLD-DAL.dll
+C:\Users\user\Desktop\DVLD\DVLD-DAL\obj\Debug\DVLD-DAL.pdb

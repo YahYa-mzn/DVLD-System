@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\DVLD\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6797DC6F-E452-4291-A02E-38E32FC37D74}|..\\DVLD-BLL\\DVLD-BLL.csproj|c:\\users\\user\\desktop\\dvld\\dvld-bll\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E212CF1A-FA70-46B3-836F-75DA295D8EC0}|..\\DVLD-DAL\\DVLD-DAL.csproj|c:\\users\\user\\desktop\\dvld\\dvld-dal\\clstestappointmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsTestAppointmentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DVLD\\DVLD-DAL\\clsTestAppointmentDAL.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-DAL\\clsTestAppointmentDAL.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DVLD\\DVLD-DAL\\clsTestAppointmentDAL.cs",
+              "RelativeToolTip": "..\\DVLD-DAL\\clsTestAppointmentDAL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:08:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DVLD\\DVLD-BLL\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD-BLL\\clsApplication.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DVLD\\DVLD-BLL\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD-BLL\\clsApplication.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA6wHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T00:06:15.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
